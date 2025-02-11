@@ -1,6 +1,6 @@
 # My Project Name - Inventory Management System
 
-## 📌 Project Overview
+##  Project Overview
 This is a **full-stack Inventory Management System** built with:
 - **Frontend:** React.js with Tailwind CSS
 - **Backend:** Node.js with Express.js
