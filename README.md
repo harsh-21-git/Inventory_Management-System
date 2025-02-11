@@ -10,7 +10,7 @@ The system allows users to **manage inventory, track stock levels, and organize 
 
 ---
 
-## 🚀 Features
+##  Features
 ✅ Add, Edit, and Delete Inventory Items  
 ✅ View Product Details  
 ✅ User Authentication (if implemented)  
@@ -19,7 +19,7 @@ The system allows users to **manage inventory, track stock levels, and organize 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```
 My-Project-Name/
 │-- Backend/        # Node.js + Express backend
@@ -68,13 +68,13 @@ npm start    # Start frontend server
 
 ---
 
-## 🖥️ Usage
+## 🖥 Usage
 - Open the browser and navigate to: **`http://localhost:3000`** (Frontend)
 - Ensure the backend is running at **`http://localhost:5000`**
 
 ---
 
-## 📜 API Endpoints (Example)
+##  API Endpoints (Example)
 | Method | Endpoint | Description |
 |--------|-------------|-------------|
 | GET | `/api/products` | Fetch all products |
@@ -86,7 +86,7 @@ _(More endpoints can be added based on functionality.)_
 
 ---
 
-## 🛡️ Environment Variables
+##  Environment Variables
 Create a `.env` file in the **Backend** directory and add:
 ```
 PORT=5000
@@ -96,14 +96,14 @@ JWT_SECRET=your_secret_key
 
 ---
 
-## 📢 Contributing
+##  Contributing
 Feel free to submit issues and pull requests to improve this project!
 
 ---
 
-## 📄 License
+##  License
 This project is licensed under the MIT License.
 
 ---
 
-💡 **Made with ❤️ by Harsh Arora**
+💡 **Made by Harsh Arora**
